@@ -21,10 +21,10 @@
 title: COMP 221 - Overview & Schedule
 email: sarehall@macalester.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    Course Website for Macalester MSCS's COMP 221 offered Spring 2023.
+    Course Website for Macalester MSCS's COMP 221 offered Spring 2024.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  mac-comp221-sp23
+github_username:  mac-comp221-sp24
 
 
 # Build settings
@@ -47,7 +47,7 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
 
-page_width: 900px
+page_width: 1000px
 
 plugins:
   - jekyll-feed

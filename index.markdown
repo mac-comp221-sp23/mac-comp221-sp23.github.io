@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: COMP221 - Algorithm Design & Analysis (Spring 2023) 
+title: COMP221 - Algorithm Design & Analysis (Spring 2024) 
 author: Suhas Arehalli
 category: Syllabus
 layout: post
