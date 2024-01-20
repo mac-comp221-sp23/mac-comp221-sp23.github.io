@@ -10,9 +10,12 @@ layout: post
 
 Welcome to the COMP221 (Algorithm Design & Analysis) Course Page. For course policies, please check the [syllabus](https://docs.google.com/document/d/1JmHjZyhxpJ14jmWKvz0pmMYYLHjADHfDV1QcbTnYOQY/edit?usp=sharing). 
 
-The schedule below will be updated to keep track of all released course materials. Keep in mind that I may shift planned topics to adjust pace as necessary. 
+
+### Resources
+In addition to office hours, this course has a dedicated slack channel in the MSCS Slack: #comp221-sp24. Note that while me and the preceptors will be in the chat, occasionally posting announcements, this channel is to faciliate communication amongst students (ask questions to eachother, form study groups, etc.). If you need to contact course staff, please send me or the preceptors an email! 
 
 ### Schedule
+The schedule below will be updated to keep track of all released course materials. Keep in mind that I may shift planned topics to adjust pace as necessary. 
 
 <div class="table-wrapper" markdown="block">
 
