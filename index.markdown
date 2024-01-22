@@ -22,7 +22,7 @@ The schedule below will be updated to keep track of all released course material
 | Week | Date | Topic | Reading | Materials |
 | :-: | :- | :- | -: | :- |
 | 0 | FRI 1/19 | Course Overview | NA |[Syllabus](https://docs.google.com/document/d/1JmHjZyhxpJ14jmWKvz0pmMYYLHjADHfDV1QcbTnYOQY/edit?usp=sharing), [Beginning-of-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSfex1kUIEJ44Pk1jZ8UwHIWSo-bhEgpNAOZdeKqfVCjUUpKAg/viewform?usp=sf_link) |
-| 1 | MON 1/22 | RAM Model, Mathematics Foundations | Skiena 2.1, 2.6--2.8  |  |
+| 1 | MON 1/22 | RAM Model, Mathematics Foundations | Skiena 2.1, 2.6--2.8  | [Activity 1](pages/Activity1/) |
 | - | WED 1/24 | Big-O(h) Analysis  | Skiena 2.2--2.4 |  |
 | - | FRI 1/26 | Big-O(h) Analysis  | -  |  |
 | 2 | MON 1/29 | Proofs of Correctness vs Runtime Analysis | Skiena 1.3--1.4, 1.6. Skim 2.5  |  |
