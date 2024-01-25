@@ -12,6 +12,11 @@ Welcome to the COMP221 (Algorithm Design & Analysis) Course Page. For course pol
 
 
 ### Resources
+
+#### Office Hours
+Me and the preceptors will hold OH from the 2nd week of the semester onward. Times can be found [in this google calendar](https://calendar.google.com/calendar/u/0?cid=Y183Y2IzMjliOTYxY2ZlM2YyNDZmZDBkNzQzNmM4OTE4YWI2OWEyZTY4MTBiNGU1MjAwNWU1MjUxM2ExNzdkYTIyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). If posted times don't work for you, please email me and we can schedule a separate meeting!
+
+#### MSCS Slack Channel
 In addition to office hours, this course has a dedicated slack channel in the MSCS Slack: #comp221-sp24. Note that while me and the preceptors will be in the chat, occasionally posting announcements, this channel is to faciliate communication amongst students (ask questions to eachother, form study groups, etc.). If you need to contact course staff, please send me or the preceptors an email! 
 
 ### Schedule
@@ -23,7 +28,7 @@ The schedule below will be updated to keep track of all released course material
 | :-: | :- | :- | -: | :- |
 | 0 | FRI 1/19 | Course Overview | NA |[Syllabus](https://docs.google.com/document/d/1JmHjZyhxpJ14jmWKvz0pmMYYLHjADHfDV1QcbTnYOQY/edit?usp=sharing), [Beginning-of-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSfex1kUIEJ44Pk1jZ8UwHIWSo-bhEgpNAOZdeKqfVCjUUpKAg/viewform?usp=sf_link) |
 | 1 | MON 1/22 | RAM Model, Mathematics Foundations | Skiena 2.1, 2.6--2.8  | [Activity 1](pages/Activity1/) |
-| - | WED 1/24 | Big-O(h) Analysis  | Skiena 2.2--2.4 |  |
+| - | WED 1/24 | Big-O(h) Analysis  | Skiena 2.2--2.4 | Skiena [2--5](pages/2-5Incident), 2--11 |
 | - | FRI 1/26 | Big-O(h) Analysis  | -  |  |
 | 2 | MON 1/29 | Proofs of Correctness vs Runtime Analysis | Skiena 1.3--1.4, 1.6. Skim 2.5  |  |
 | - | WED 1/31 | Brute Force Analysis + Arrays/Linked List Review | Skiena 3.1 |  |

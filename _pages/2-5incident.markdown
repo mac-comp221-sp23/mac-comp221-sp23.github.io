@@ -23,9 +23,9 @@ $$ \sum_{k=1}^{n/2} \log(n/k) \geq \sum_{k=1}^{n/2} \log(n/(n/2)) $$
 
 I.e., we replace each of the terms in the sum with the smallest term to get a lower bound! But, that simplifies!
 
-$$ \sum_{k=1}^{n/2} \log(n/(n/2)) = \sum_{k=1}^n \log(2) = \log(2)n $$
+$$ \sum_{k=1}^{n/2} \log(n/(n/2)) = \sum_{k=1}^{n/2} \log(2) = \log(2)n/2 $$
 
-So, summing it all up (ha!), we find that our growth function is bounded from below by $\log(2) n$, so with $c = \log(2)$ and $n_0 > 1$, we have that our function is $\Omega(n)$. 
+So, summing it all up (ha!), we find that our growth function is bounded from below by $(\log(2)/2) n$, so with $c = \log(2)/2$ and $n_0 > 1$, we have that our function is $\Omega(n)$. 
 
 
 ## Upper bounds
