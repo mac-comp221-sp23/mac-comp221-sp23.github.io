@@ -30,7 +30,7 @@ The schedule below will be updated to keep track of all released course material
 | 1 | MON 1/22 | RAM Model, Mathematics Foundations | Skiena 2.1, 2.6--2.8  | [Activity 1](pages/Activity1/) |
 | - | WED 1/24 | Big-O(h) Analysis  | Skiena 2.2--2.4 | Skiena [2--5](pages/2-5Incident), 2--11 |
 | - | FRI 1/26 | Big-O(h) Analysis  | -  | [Activity 2](pages/Activity2), [Time Complexity Notes]({{ site.url }}/notes/TimeComplexity.pdf)  |
-| 2 | MON 1/29 | Proofs of Correctness vs Runtime Analysis | Skiena 1.3--1.4, 1.6. Skim 2.5  | [Activity 3](pages/Activity3), [Tao on rigor](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)  |
+| 2 | MON 1/29 | Proofs of Correctness vs Runtime Analysis | Skiena 1.3--1.4, 1.6. Skim 2.5  |[Tao on rigor](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)  |
 | - | WED 1/31 | Brute Force Analysis + Arrays/Linked List Review | Skiena 3.1 |  |
 | - | FRI 2/02 | **CLASS CANCELLED** (Review: Stacks, Queues)  | Skiena 3.2 |  |
 | 3 | MON 2/05 | Maps/Hashing  | Skiena 3.3, 3.7  |  |
