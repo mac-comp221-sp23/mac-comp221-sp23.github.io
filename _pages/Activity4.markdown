@@ -16,16 +16,17 @@ You will work towards being able to...
 
 2. Now let's practice reasoning about algorithms that use these data structures. Consider the following pseudocode
 
-{% pseudocode %}
-    stackFunction(String s):
-        Let st @be @a Stack
-        For i <- 1 @to length(s):
-            st.push( @s[i])
-        For i <- 1 @to length(s):
-            If @s[i] != st.pop():
-                Return @false
-        Return @true
-{% endpseudocode %}
+```plaintext
+    StackFunction(String s):
+        Let st be a stack
+        For i <- 1 to length(s):
+            st.push(s[i])
+        For i <- 1 to length(s):
+            If s[i] != st.pop():
+                return false
+        return true
+```
+(one day I'll figure out a nicer way to format pseudocode here)
 
 What does it do?
 
