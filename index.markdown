@@ -41,4 +41,10 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 2/16 | **Exam 1** |  |  |
 | 5 | MON 2/19 | TBD |  |  |
 
+### Homeworks
+
+#### Homework 1
+
+[Instructions]({{ site.url }}/hws/COMP221_HW1.pdf) | [Sample CSV]({{ site.url }}/hws/sample_times.csv)
+
 </div> 
