@@ -44,6 +44,7 @@ The schedule below will be updated to keep track of all released course material
 ### Homeworks
 
 #### Homework 1
+**DUE: 2/20/2024**
 
 [Instructions]({{ site.url }}/hws/COMP221_HW1.pdf) | [Sample CSV]({{ site.url }}/hws/sample_times.csv)
 
