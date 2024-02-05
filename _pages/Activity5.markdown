@@ -8,13 +8,13 @@ categories: Activity Design
 
 You will work towards being able to...
 
-1. Design brute-force algorithms to solve problems
+1. Design brute-force algorithms to solve problems.
 
 2. Determine the tiem complexity growth function for pseudocode under the RAM model.
 
-3. Compute big-$O$/$\Omega$/$\Theta$
+3. Compute big-$O$/$\Omega$/$\Theta$s from time complexity growth functions. 
 
-4. Convert intuitive algorithmic ideas into pseudocode
+4. Convert intuitive algorithmic ideas into pseudocode.
 
 
 
