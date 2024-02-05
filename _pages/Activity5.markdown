@@ -21,7 +21,7 @@ You will work towards being able to...
 ## Instructions
 For each of the problem specifications below, try and design a brute-force solution to each. Write out pseudocode for your solution, find the worst-case time complexity (big-$\Theta$), and convince yourself of correctness. For practice, write out formal proofs (or at least convince yourself you could, if asked!). 
 
-1. **Substring Match**: You're given Strings $s_1, s_2$ of lengths $n$, $m$ and must return an integer index $i$ such that $s_1[i\dots i+m] = s_2$. For example, with 1-indexing, $s_1$ = E X A M P L E, $s_2$ = A M P means that a algorithm should return $3$. 
+1. **Substring Match**: You're given Strings $s_1, s_2$ of lengths $n$, $m$ and must return an integer index $i$ such that $s_1[i\dots i+m-1] = s_2$. For example, with 1-indexing, $s_1$ = E X A M P L E, $s_2$ = A M P means that a algorithm should return $3$. 
 
 2. **Primality Testing**: A prime number is a number $p$ such that $\forall 2 \leq k < p$, $p \mod k = 0$ (that is, no integer between $2$ and $p-1$ evenly divides $p$). A primality testing algorithm takes a natural number $k$ as input and returns true if $k$ is prime and false otherwise. For a example, $7$ is prime (and the algorithm should return true) because $2, 3, 4, 5, 6$ do not divide $7$ evenly, but $6$ is not (and the algorithm should return false) because $2$ and $3$ evenly divide into $6$.
 
