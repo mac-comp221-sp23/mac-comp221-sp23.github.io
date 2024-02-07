@@ -58,8 +58,8 @@ Feel free to write small pieces of code if it helps you work through the problem
 #### PQueues and Heaps
 Suppose you have a priority queue implemented with a min-heap. Suppose 9 items were successfully inserted into it. What is the structure of the tree? Draw the nodes and parent-child structure. 
 
-> HINT
-> How does a heap maintain balance? What property does the heap always have?
+> ##### HINT
+> How does a heap maintain balance? What property does the tree underlying the heap always have?
 {: .block-tip}
 
 Recall that a min-heap has an ordering property such that if node $a$ is a child of node $b$, then $a > b$. **Show (formally) that this means that a path from root to leaf $c_1, c_2, \dots, c_h$ is sorted.** For clarity, since $c_1, \dots c_h$ is a path from root to leaf, this means that for each $1 < i \leq h$, $c_i$ is the child of $c_{i-1}$.   
@@ -71,13 +71,13 @@ Recall that a min-heap has an ordering property such that if node $a$ is a child
 
 2. (Skiena 3-15) Suppose you want to convert an un-balanced binary search tree to a balanced one. Write an $O(n)$ algorithm that will convert a binary search tree with $n$ nodes to one that is perfectly blaanced. Here, take balanced to mean that the depth of any two leaves differs by at most 1. 
 
-> HINT
+> ##### HINT
 > Look back at the answer to the hint question in the PQueue/Heap section. Could you borrow a balancing idea from there?
 {: .block-tip}
 
 **BONUS**: (Skiena 3-21) Given two BSTs $A$ and $B$ such that $\forall a \in A, b \in B$, $a < b$, write pseudocode to construct a new BST $C$ that contains all of the elements in $A$ and $B$ (that is, $\forall a \in A$, $a \in C$ and $\forall b \in B$, $b \in C$). Do this in $O(h)$ (worst-case) time, where $h$ is the maximum height between $A$ and $B$.
 
-> HINT
+> ###### HINT
 > Focus on ensuring that $C$ satisfies the ordering property for BSTs. Both trees are given to you as ordered BSTs, so try to change the structure of $A$ and $B$ as little as possible when merging them.
 {: .block-tip}
 
