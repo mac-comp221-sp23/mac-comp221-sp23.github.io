@@ -49,11 +49,11 @@ insert("fern")
 insert("nerf")
 ```
 
-Can you conclude anything *in-general* about your choice of $m$ if you were to implement this hashmap? what $n$ would minimize collisions? What collisions can you not avoid? 
+Can you conclude anything *in-general* about your choice of $m$ if you were to implement this hashmap? what $m$ would minimize collisions? What collisions can you not avoid? (If it helps, feel free to make some assumptions: What if the length of string keys have length $\leq k$, for some $k$? Can you construct a good $m$ in terms of $k$). 
 
 Feel free to write small pieces of code if it helps you work through the problem!
 
-**Bonus**: For those of you with some probability background, let's consider the odds of a collision occurring: Suppose you have a hash function $f$ that is *distributed uniformly*. This means for random $k$ in our space of keys, the corresponding values $f(k)$ are equally likely to be hashed to any of the $m$ slots in our hashtable. Formally, we can say that this means for a sequence of insertions with keys $k_1, \dots, k_n$, $P(f(k_i) == j) = \frac{1}{m}$ for any $1 \leq i \leq n$ and $1 \leq j \leq m$. What is the likelihood of a collision after $n$ insertions (that is, that $\exists l,m$ such that $f(k_l) = f(k_m)$). Like many probability problems of this type, it might be easier to reason about the likelihood that there *aren't* any collisions.
+**Bonus**: For those of you with some probability background, let's consider the odds of a collision occurring: Suppose you have a hash function $f$ that is *distributed uniformly*. This means for random $k$ in our space of keys, the corresponding values $f(k)$ are equally likely to be hashed to any of the $m$ slots in our hashtable. Formally, we can say that this means for a sequence of insertions with keys $k_1, \dots, k_n$, $P(f(k_i) = j) = \frac{1}{m}$ for any $1 \leq i \leq n$ and $1 \leq j \leq m$. What is the likelihood of a collision after $n$ insertions (that is, that $\exists l,m$ such that $f(k_l) = f(k_m)$). Like many probability problems of this type, it might be easier to reason about the likelihood that there *aren't* any collisions.
 
 #### PQueues and Heaps
 Suppose you have a priority queue implemented with a min-heap. Suppose 9 items were successfully inserted into it. What is the structure of the tree? Draw the nodes and parent-child structure. 
@@ -69,7 +69,7 @@ Recall that a min-heap has an ordering property such that if node $a$ is a child
 #### (Binary Search) Trees
 1. Suppose you have an empty (non-self-balancing) binary search tree and insert $k$ elements into it. What is the worst-case time complexity of a look-up for a particular value (in big-$\Theta$). What does a worst case sequence of insertions look like?
 
-2. (Skiena 3-15) Suppose you want to convert an un-balanced binary search tree to a balanced one. Write an $O(n)$ algorithm that will convert a binary search tree with $n$ nodes to one that is perfectly blaanced. Here, take balanced to mean that the depth of any two leaves differs by at most 1. 
+2. (Skiena 3-15) Suppose you want to convert an un-balanced binary search tree to a balanced one. Write an $O(n)$ algorithm that will convert a binary search tree with $n$ nodes to one that is perfectly balanced. Here, take balanced to mean that the depth of any two ~~leaves~~ *null pointers* (i.e., a missing child) differs by at most 1. 
 
 > ##### HINT
 > Look back at the answer to the hint question in the PQueue/Heap section. Could you borrow a balancing idea from there?
@@ -84,7 +84,7 @@ Recall that a min-heap has an ordering property such that if node $a$ is a child
 #### Graphs
 1. Construct a graph which will take up less memory as an adjacency list vs. as an adjacency matrix.
 
-2. Consider a *complete* graph $G = (V, E)$. Being complete means that for any $v_1, v_2 \in V$, $(v_1, v_2) \in E$ (every pair of vertices has an edge connecting them). Suppose the graph in undirected. What is $\|E\|$ (i.e., how many edges are in $G$?). 
+2. Consider a *complete* graph $G = (V, E)$. Being complete means that for any $v_1, v_2 \in V$, $(v_1, v_2) \in E$ (every pair of vertices has an edge connecting them). Suppose the graph in undirected. What is $\|E\|$? That is, how many edges are in $G$? 
 
 3. What is the smallest $\|E\|$ one can have such that $G = (V, E)$ is *connected*?  
 
