@@ -34,7 +34,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 1/31 | *Proofs of Correctness 2* ~~Brute Force Analysis + Arrays/Linked List Review~~ |  | [Activity 3](pages/Activity3), [Correctness Notes]({{ site.url }}/notes/Correctness.pdf) |
 | - | FRI 2/02 | **CLASS CANCELLED** (Review: *Arrays, Linked Lists,* Stacks, Queues)  | Skiena 3.1--3.2 | [Activity 4](pages/Activity4) |
 | 3 | MON 2/05 | *Brute Force Algorithms* ~~Maps/Hashing~~  |  | [Activity 5](pages/Activity5) |
-| - | WED 2/07 | *HashMaps,* Trees, PQueues & Graphs | Skiena 3.3--3.7, 7.1--7.2  |  |
+| - | WED 2/07 | *HashMaps,* Trees, PQueues & Graphs | Skiena 3.3--3.7, 7.1--7.2  | [Activity 6](pages/Activity6)  |
 | - | FRI 2/09 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 |  |
 | 4 | MON 2/12 | Sorting: MergeSort | Skiena 4.5  |  |
 | - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 |  |
