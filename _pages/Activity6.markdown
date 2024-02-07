@@ -92,4 +92,4 @@ Recall that a min-heap has an ordering property such that if node $a$ is a child
 
 ### For Credit
 
-Upload to Moodle your work on at least one problem per data structure. Convince yourself indepently that you could solve all the problems here (with the exception of the bonus problems) to make sure that you're sufficiently caught up with data structures! 
+Upload to Moodle your work on at least one problem per data structure. Convince yourself that you could solve all the problems here independently (with the exception of the bonus problems) to make sure that you're sufficiently caught up with data structures! 
