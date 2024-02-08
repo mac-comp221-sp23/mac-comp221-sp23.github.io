@@ -37,7 +37,7 @@ For what values of $m$ will the following insertions collide?
 ```plaintext
 insert("bald")
 insert("area")
-insert("sea")
+~~insert("sea")~~
 ```
 
 What about the following inserts?
