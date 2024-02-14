@@ -37,7 +37,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 2/07 | *HashMaps,* Trees, PQueues & Graphs | Skiena 3.3--3.7, 7.1--7.2  | [Activity 6](pages/Activity6)  |
 | - | FRI 2/09 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity 7](pages/Activity7) |
 | 4 | MON 2/12 | Sorting: MergeSort | Skiena 4.5  | [Activity 8](pages/Activity8), [MergeSort Notes]({{ site.url }}/notes/MergeSort.pdf)  |
-| - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 |  |
+| - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 | [Activity 9](pages/Activity9)  |
 | - | FRI 2/16 | **Exam 1** |  | [Exam 1 LGs](https://docs.google.com/document/d/1VPGXnrsCvWL3PJLWo2WqsZSgxRDYw6lbzurS5phtKhM/edit) |
 | 5 | MON 2/19 | TBD |  |  |
 
