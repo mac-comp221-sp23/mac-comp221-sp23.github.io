@@ -39,7 +39,20 @@ The schedule below will be updated to keep track of all released course material
 | 4 | MON 2/12 | Sorting: MergeSort | Skiena 4.5  | [Activity 8](pages/Activity8), [MergeSort Notes]({{ site.url }}/notes/MergeSort.pdf)  |
 | - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 | [Activity 9](pages/Activity9)  |
 | - | FRI 2/16 | **Exam 1** |  | [Exam 1 LGs](https://docs.google.com/document/d/1VPGXnrsCvWL3PJLWo2WqsZSgxRDYw6lbzurS5phtKhM/edit) |
-| 5 | MON 2/19 | TBD |  |  |
+| 5 | MON 2/19 | Recursion and Recurrence Relations  | Skiena 5.1--5.3  |  |
+| - | WED 2/21 | Master Theorem | Skiena 5.4 |  |
+| - | FRI 2/23 | Divide & Conquer | Skiena 5.5--5.6 |  |
+| 6 | MON 2/26 | Graphs, BFS/DFS | Skiena 7.5--7.10  |  |
+| - | WED 2/28 | Greedy Algorithms (Prim's, Kruskal's) | Skiena 8.1 |  |
+| - | FRI 3/01 | **Class Cancelled**: Capstone Day! | |  |
+| 7 | MON 3/04 | Union-Find + Kruskals 2.0 |  |  |
+| - | WED 3/06 | Shortest-Path (Djikstra's) | Skiena 8.3 |  |
+| - | FRI 3/08 | All-Pair Shortest Path (Floyd-Warshall) |  |  |
+| 8 | 3/11 -- 3/15 | **Spring Break** |  |  |
+| 9 | MON 3/18 | Max Flow + Bipartite Matching | Skiena 8.5 |  |
+| - | WED 3/20 | Max-Flow = Min-Cut (Ford-Fulkerson, Edmonds-Karp) |  |  |
+| - | FRI 3/22 | Graph Algorithm Review |  |  |
+| 10 | MON 3/25 | **Exam 2**  |  |  |
 
 ### Homeworks
 
