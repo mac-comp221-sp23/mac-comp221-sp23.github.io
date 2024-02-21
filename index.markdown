@@ -39,8 +39,8 @@ The schedule below will be updated to keep track of all released course material
 | 4 | MON 2/12 | Sorting: MergeSort | Skiena 4.5  | [Activity 8](pages/Activity8), [MergeSort Notes]({{ site.url }}/notes/MergeSort.pdf)  |
 | - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 | [Activity 9](pages/Activity9), [QuickSort Notes]({{ site.url }}/notes/QuickSort.pdf) |
 | - | FRI 2/16 | **Exam 1** |  | [Exam 1 LGs](https://docs.google.com/document/d/1VPGXnrsCvWL3PJLWo2WqsZSgxRDYw6lbzurS5phtKhM/edit) |
-| 5 | MON 2/19 | Recursion and Recurrence Relations  | Skiena 5.1--5.3  | [Activity 10](pages/Activity10)  |
-| - | WED 2/21 | Master Theorem | Skiena 5.4 |  |
+| 5 | MON 2/19 | Binary Search Variants  | Skiena 5.1--5.3  | [Activity 10](pages/Activity10)  |
+| - | WED 2/21 | Reccurence Relations and the Master Theorem | Skiena 5.4 | [Activity 11](pages/Activity11)  |
 | - | FRI 2/23 | Divide & Conquer (Largest Subrange/Closest Pair) | Skiena 5.5--5.6 |  |
 | 6 | MON 2/26 | Graphs, BFS/DFS | Skiena 7.5--7.10  |  |
 | - | WED 2/28 | Greedy Algorithms (Prim's, Kruskal's) | Skiena 8.1 |  |
