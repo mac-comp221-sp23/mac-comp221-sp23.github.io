@@ -37,7 +37,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 2/07 | *HashMaps,* Trees, PQueues & Graphs | Skiena 3.3--3.7, 7.1--7.2  | [Activity 6](pages/Activity6)  |
 | - | FRI 2/09 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity 7](pages/Activity7), [HeapSort Notes]({{ site.url }}/notes/HeapSort.pdf) |
 | 4 | MON 2/12 | Sorting: MergeSort | Skiena 4.5  | [Activity 8](pages/Activity8), [MergeSort Notes]({{ site.url }}/notes/MergeSort.pdf)  |
-| - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 | [Activity 9](pages/Activity9)  |
+| - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 | [Activity 9](pages/Activity9), [QuickSort Notes]({{ site.url }}/notes/QuickSort.pdf) |
 | - | FRI 2/16 | **Exam 1** |  | [Exam 1 LGs](https://docs.google.com/document/d/1VPGXnrsCvWL3PJLWo2WqsZSgxRDYw6lbzurS5phtKhM/edit) |
 | 5 | MON 2/19 | Recursion and Recurrence Relations  | Skiena 5.1--5.3  | [Activity 10](pages/Activity10)  |
 | - | WED 2/21 | Master Theorem | Skiena 5.4 |  |
