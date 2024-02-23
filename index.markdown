@@ -41,7 +41,7 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 2/16 | **Exam 1** |  | [Exam 1 LGs](https://docs.google.com/document/d/1VPGXnrsCvWL3PJLWo2WqsZSgxRDYw6lbzurS5phtKhM/edit) |
 | 5 | MON 2/19 | Binary Search Variants  | Skiena 5.1--5.3  | [Activity 10](pages/Activity10)  |
 | - | WED 2/21 | Reccurence Relations and the Master Theorem | Skiena 5.4 | [Activity 11](pages/Activity11)  |
-| - | FRI 2/23 | Divide & Conquer (Largest Subrange/Closest Pair) | Skiena 5.5--5.6 |  |
+| - | FRI 2/23 | Divide & Conquer (Largest Subrange/Closest Pair) | Skiena 5.5--5.6 | [Activity 12](pages/Activity12)  |
 | 6 | MON 2/26 | Graphs, BFS/DFS | Skiena 7.5--7.10  |  |
 | - | WED 2/28 | Greedy Algorithms (Prim's, Kruskal's) | Skiena 8.1 |  |
 | - | FRI 3/01 | **Class Cancelled**: Capstone Day! | |  |
