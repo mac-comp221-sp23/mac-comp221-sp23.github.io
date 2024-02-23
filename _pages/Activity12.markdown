@@ -10,7 +10,6 @@ You will work towards being able to...
 
 1. Use divide and conquer design principles to write algorithms to solve problems
 
-
 ## Instructions
 Work with your groups on the following problems:
 
@@ -18,9 +17,9 @@ Work with your groups on the following problems:
 
 **Hint**: Consider whether or not you rob from house $i$. How does this affect the other houses one can take from? Once that decision is made, do you see subproblems that can help you solve the whole thing?
 
-2. (Skiena 5-5) Suppose you have a sorted array of *distinct integers* $A$. Find a $O(\log n) algorithm find whether there exists some index $i$ such that $A[i] = i$. 
+2. (Skiena 5-5) Suppose you have a sorted array of *distinct integers* $A$. Find a $O(\log n)$ algorithm find whether there exists some index $i$ such that $A[i] = i$. 
 
-**Hint**: Remember that the array is sorted and contains *integers*. This means that $A[i+1] \geq 1 + A[i]$! for any index $1 \leq i < N$!
+**Hint**: Remember that the array is sorted and contains *integers*. This means that $A[i+1] \geq 1 + A[i]$ for any index $1 \leq i < N$!
 
 #### Submission
 Submit an artifact of your work for problem 1 or 2.
