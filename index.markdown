@@ -61,4 +61,9 @@ The schedule below will be updated to keep track of all released course material
 
 [Instructions]({{ site.url }}/hws/COMP221_HW1.pdf) | [Sample CSV]({{ site.url }}/hws/sample_times.csv)
 
+#### Homework 2
+**DUE: 3/8/2024**
+
+[Instructions]({{ site.url }}/hws/COMP221_HW2.pdf) | [LaTeX Source]({{ site.url }}/hws/COMP221_HW2.tex)
+
 </div> 
