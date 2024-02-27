@@ -43,7 +43,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 2/21 | Reccurence Relations and the Master Theorem | Skiena 5.4 | [Activity 11](pages/Activity11)  |
 | - | FRI 2/23 | Divide & Conquer (Largest Subrange/Closest Pair) | Skiena 5.5--5.6 | [Activity 12](pages/Activity12)  |
 | 6 | MON 2/26 | Graphs, BFS/DFS | Skiena 7.5--7.10  | [BFS Notes]({{ site.url }}/notes/BFS.pdf)  |
-| - | WED 2/28 | Graph Traversal Problems |  |  |
+| - | WED 2/28 | Graph Traversal Problems |  | [Activity 13](pages/Activity13)  |
 | - | FRI 3/01 | **Class Cancelled**: Capstone Day! | |  |
 | 7 | MON 3/04 | Greedy Algorithms (Prim's/Kruskal's) | Skiena 8.1 |  |
 | - | WED 3/06 | Union-Find + Kruskal's 2.0 |  |  |
