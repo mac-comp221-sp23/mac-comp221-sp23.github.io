@@ -31,7 +31,7 @@ Then write out pseudocode for this *specific* articulation vertex finding algori
 <img src="{{ site.url }}/assets/imgs/articulation.png" width="700" />
 
 #### Covering for a Friend (Skiena 7-18)
-A *Vertex Cover* for a graph $G = (V, E)$ is a set $V' \subset V$ (a subset of V$ such that ever edge is *incident* to some $v \in V'$ (formally, $\forall (v_1, v_2) \in E$, either $v_1 \in V'$ or $v_2 \in V'$). Informally, this just means for every edge, at least one vertex on the end of that edge is in $V'$.
+A *Vertex Cover* for a graph $G = (V, E)$ is a set $V' \subset $V$ (a subset of V$ such that ever edge is *incident* to some $v \in V'$ (formally, $\forall (v_1, v_2) \in E$, either $v_1 \in V'$ or $v_2 \in V'$). Informally, this just means for every edge, at least one vertex on the end of that edge is in $V'$.
 
 Suppose you have $\lvert V \rvert$ people working on $\lvert E \rvert$ projects in teams of 2. You want to organize a meeting where at least one person on each project is present to talk about progress on that project. This is a vertex cover problem --- identify the vertices and edges of the implicit graph and convince yourself the solution is a vertex cover!
 
