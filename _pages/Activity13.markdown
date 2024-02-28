@@ -22,7 +22,7 @@ Work with your groups on the following problems. You may work on them in any ord
 
 Let's dig a bit further into finding articulation points (sometimes called *cut-vertices*) in a graph. Draw a DFS tree starting at A, and annotate that tree with (1) the depth of each node within the tree, (2) dashed lines for the backward edges, and finally (3) the lowest depth of a neighbor of that node (including backward edges). [^1]
 
-What do you notice about the lowest-depth of neighbors of articulation points (identify them visually at first, then look at the lowest-depth of their neighbors)?
+What do you notice about the lowest-depth of neighbors of articulation points (identify them visually at first, then look at the smallest depth of their neighbors)?
 
 Compare these to the conditions of of being an articulation vertex outlined in Skiena! 
 
