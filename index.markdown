@@ -54,7 +54,7 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  |  |
 | 10 | MON 3/25 | **Exam 2**  |  |  |
 
-Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySolutions.pdf) (Updated for: Activities 8, 10--12).
+Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySolutions.pdf) (Updated for: Activities 8, 10--13).
 
 ### Homeworks
 
