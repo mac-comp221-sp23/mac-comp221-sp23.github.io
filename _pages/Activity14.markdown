@@ -8,10 +8,16 @@ categories: Activity MST graph Prims greedy
 
 You will work towards being able to...
 
-## Warm-Up
-Recall from the reading that a *Spanning Tree* $T = (V', E') of a graph $G = (V, E)$ *spans* the graph $G$ (i.e., $V' = V$) and is a *tree* (acyclic and connected). 
+1. Be familiar with cannonical algorithms (Prim's, Kruskal's) 
 
-Suppose you had a *spanning tree* and added a new edge $e \in E \ E'$, constructing $T' = (V, E' \cup \{e\})$. Does $T'$ contain a cycle? Convince your table-mates!
+2. Translate problems into graph problems and solve them with cannonical graph algorithms (MST Problems)
+
+3. Design and prove correct/incorrect algorithms based on Greedy design principles. 
+
+## Warm-Up
+Recall from the reading that a *Spanning Tree* $T = (V', E')$ of a graph $G = (V, E)$ *spans* the graph $G$ (i.e., $V' = V$) and is a *tree* (T is acyclic and connected). 
+
+Suppose you had a *spanning tree* and added a new edge $e \in E \setminus E'$, constructing $T' = (V, E' \cup \\{ e \\} )$. Does $T'$ contain a cycle? Convince your table-mates!
 
 As a bonus: How many edges **must** be in an MST? How do these two results interact?
 
