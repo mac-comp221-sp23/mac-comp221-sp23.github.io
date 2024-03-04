@@ -20,9 +20,9 @@ Work with your groups on the following problems. You may work on them in any ord
 
 #### Articulate a Plan 
 
-Let's dig a bit further into finding articulation points (sometimes called *cut-vertices*) in a graph. Draw a DFS tree starting at A, and annotate that tree with (1) the depth of each node within the tree, (2) dashed lines for the backward edges, and finally (3) the smallest depth of the node or non-parent neighbors of that node (i.e. backward edges or the depth of the node itself). [^1]
+Let's dig a bit further into finding articulation points (sometimes called *cut-vertices*) in a graph. Draw a DFS tree starting at A, and annotate that tree with (1) the depth of each node within the tree, (2) dashed lines for the backward edges, and finally (3) the smallest depth of the node or non-parent neighbors of that node (i.e. backward edges or the depth of the node itself). Call this 3rd value the *1-step high-point* of the vertex. [^1]
 
-What do you notice about the smallest depth of neighbors of articulation vertices (identify the vertices visually at first, then look at the smallest depth of their neighbors)? And their neighbors/children? Their *descendents*? See if you can generalize: Is there a new value at each vertex you should *actually* keep track of?
+What do you notice about the 1-step high-points of children of articulation vertices (identify the articulation vertices visually at first, then look at the 1-step high-points of their children)? Their *descendents*? See if you can generalize: Is there a new value at each vertex you should *actually* keep track of?
 
 Compare these to the conditions of of being an articulation vertex outlined in Skiena (how does the measure you want to construct relate to Skiena's *reachable vertices*?).
 
