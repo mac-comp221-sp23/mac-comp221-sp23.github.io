@@ -45,7 +45,7 @@ The schedule below will be updated to keep track of all released course material
 | 6 | MON 2/26 | Graphs, BFS/DFS | Skiena 7.5--7.10  | [BFS Notes]({{ site.url }}/notes/BFS.pdf)  |
 | - | WED 2/28 | Graph Traversal Problems |  | [Activity 13](pages/Activity13)  |
 | - | FRI 3/01 | **Class Cancelled**: Capstone Day! | |  |
-| 7 | MON 3/04 | Greedy Algorithms (Prim's/Kruskal's) | Skiena 8.1 |  |
+| 7 | MON 3/04 | Greedy Algorithms (Prim's/Kruskal's) | Skiena 8.1 | [Activity 14](pages/Activity14) |
 | - | WED 3/06 | Union-Find + Kruskal's 2.0 |  |  |
 | - | FRI 3/08 | Shortest-Path (Dijkstra's) | Skiena 8.3  |  |
 | 8 | 3/11 -- 3/15 | **Spring Break** |  |  |
