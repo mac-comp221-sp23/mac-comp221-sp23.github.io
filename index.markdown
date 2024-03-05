@@ -81,4 +81,5 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 **ERRATA:** 
 
 - Problem 4b: a valid orderings -> a valid ordering. Please provide an algorithm that finds any valid ordering of letters given the data. 
+- Problem 3e: When I say faster here, it's a rare case of me referring to speed in a non-asymptotic way! Think in terms of number of vertices visited/edges traversed, etc.
 
