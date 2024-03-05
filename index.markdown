@@ -80,5 +80,5 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 
 **ERRATA:** 
 
-- Problem 4b: a valid orderings -> all valid orderings. Please provide an algorithm that finds *all* possible valid orderings of letters given the data. 
+- Problem 4b: a valid orderings -> a valid ordering. Please provide an algorithm that finds any valid ordering of letters given the data. 
 
