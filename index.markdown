@@ -54,6 +54,8 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  |  |
 | 10 | MON 3/25 | **Exam 2**  |  |  |
 
+</div> 
+
 Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySolutions.pdf) (Updated for: Activities 8, 10--13).
 
 ### Homeworks
@@ -61,11 +63,22 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 #### Homework 1
 **DUE: 2/20/2024**
 
+<div class="table-wrapper" markdown="block">
+
 [Instructions]({{ site.url }}/hws/COMP221_HW1.pdf) | [Sample CSV]({{ site.url }}/hws/sample_times.csv)
+
+</div> 
 
 #### Homework 2
 **DUE: 3/8/2024**
 
+<div class="table-wrapper" markdown="block">
+
 [Instructions]({{ site.url }}/hws/COMP221_HW2.pdf) | [LaTeX Source]({{ site.url }}/hws/COMP221_HW2.tex)
 
 </div> 
+
+**ERRATA:** 
+
+- Problem 4b: a valid orderings -> all valid orderings. Please provide an algorithm that finds *all* possible valid orderings of letters given the data. 
+
