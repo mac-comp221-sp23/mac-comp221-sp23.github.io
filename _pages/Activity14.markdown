@@ -25,7 +25,7 @@ As a bonus: How many edges **must** be in an MST? How do these two results inter
 
 1. (Skiena 8-2) Since a Minimum Spanning Tree is connected, that means for any vertices $s, t \in V$, there is a path in the minimum spanning tree between them (i.e., by our in-class definitions, a sequence of edges $(s, v_1), (v_1, v_2) \dots (v_{k-1}, t) \in E'$). Is this path the *shortest* path in $G$ between those vertices? Check intuitions between people at your table. Come to a consensus, and then either prove it true, or construct a graph that presents a counterexample!
 
-2. (Skiena 8-8a) Suppose you construct an MST $T$ for a weighted graph $G$. Then you construct a graph $G'$ where the weight of each graph is increased by exactly $k$. Does the MST necessarily contain the same edges? Convince youself and this table that this is true!
+2. (Skiena 8-8a) Suppose you construct an MST $T$ for a weighted graph $G$. Then you construct a graph $G'$ where the weight of each graph is increased by exactly $k$. Does the MST necessarily contain the same edges? Convince yourself and this table that this is true!
 
 3. (Skiena 8-8b) Suppose you have a shortest path from $s \in V$ to $t \in V$ in $G$. Using the $G'$ construction from the previous problem, does the shortest path in $G'$ always contain the same edges as the shortest path in $G$?
 
