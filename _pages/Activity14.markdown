@@ -8,7 +8,7 @@ categories: Activity MST graph Prims greedy
 
 You will work towards being able to...
 
-1. Be familiar with cannonical algorithms (Prim's, Kruskal's) 
+1. Be familiar with canonical algorithms (Prim's, Kruskal's) 
 
 2. Translate problems into graph problems and solve them with cannonical graph algorithms (MST Problems)
 
