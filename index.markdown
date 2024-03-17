@@ -49,8 +49,8 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 3/06 | Union-Find + Kruskal's 2.0 |  | [Activity 14](pages/Activity14)  |
 | - | FRI 3/08 | Shortest-Path (Dijkstra's) | Skiena 8.3  |  |
 | 8 | 3/11 -- 3/15 | **Spring Break** |  |  |
-| 9 | MON 3/18 | Max Flow + Bipartite Matching | Skiena 8.5 |  |
-| - | WED 3/20 | Max-Flow = Min-Cut (Ford-Fulkerson, Edmonds-Karp) |  |  |
+| 9 | MON 3/18 | Max-Flow/Min-Cut (Ford-Fulkerson, Edmonds-Karp) | Skiena 8.5  |  |
+| - | WED 3/20 | Max-Flow Applications/Bipartite Matching |  |  |
 | - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  |  |
 | 10 | MON 3/25 | **Exam 2**  |  |  |
 
