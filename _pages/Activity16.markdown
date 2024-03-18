@@ -14,9 +14,9 @@ You will work towards being able to...
 
 ## Activity
 ### Part 1
-Today, Let's through the development of a max-flow algorithm using the Floyd-Fulkerson method!
+Today, Let's walk through the development of a max-flow algorithm using the Floyd-Fulkerson method!
 
-1. First, we'll note that the pseudocode provided in class for Floyd-Fulkerson is *underspecified*: we'll write out the steps of the pseudocode in a more concrete manner. Arrive at consensus with your tablemates about how you might find an augmenting path (the tricky part of the implementation)! Note that we'll also know when $s$ and $t$ are disconnected when this path finding algorithm fails to find a path, which will allow us to set our termination condition for our while loop! 
+1. First, we'll note that the pseudocode provided in class for Floyd-Fulkerson is *underspecified*: **write out the steps of the pseudocode in a more concrete manner**. Arrive at consensus with your tablemates about how you might find an augmenting path (the tricky part of the implementation)! Note that we'll also know when $s$ and $t$ are disconnected when this path finding algorithm fails to find a path, which will allow us to set our termination condition for our while loop! 
 
     > ###### HINT
     > Observe that an edge $e$ is only in the residual graph $G_r$ iff the remaining capacity $c(e) - f(e) > 0$. 
