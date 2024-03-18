@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 8: Sorting as Pre-Processing"
+title:  "Activity 08: Sorting as Pre-Processing"
 categories: Activity Sorting Design
 ---
 

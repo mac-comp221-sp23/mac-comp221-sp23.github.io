@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 9: Quicksort and Partitioning"
+title:  "Activity 09: Quicksort and Partitioning"
 categories: Activity Sorting Quicksort Partitioning
 ---
 

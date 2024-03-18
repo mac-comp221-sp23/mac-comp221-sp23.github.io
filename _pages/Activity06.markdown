@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 6: Data Structure Review 2"
+title:  "Activity 06: Data Structure Review 2"
 categories: Activity DataStructures Review
 ---
 
@@ -56,13 +56,13 @@ Feel free to write small pieces of code if it helps you work through the problem
 **Bonus**: For those of you with some probability background, let's consider the odds of a collision occurring: Suppose you have a hash function $f$ that is *distributed uniformly*. This means for random $k$ in our space of keys, the corresponding values $f(k)$ are equally likely to be hashed to any of the $m$ slots in our hashtable. Formally, we can say that this means for a sequence of insertions with keys $k_1, \dots, k_n$, $P(f(k_i) = j) = \frac{1}{m}$ for any $1 \leq i \leq n$ and $1 \leq j \leq m$. What is the likelihood of a collision after $n$ insertions (that is, that $\exists l,m$ such that $f(k_l) = f(k_m)$). Like many probability problems of this type, it might be easier to reason about the likelihood that there *aren't* any collisions.
 
 #### PQueues and Heaps
-Suppose you have a priority queue implemented with a min-heap. Suppose 9 items were successfully inserted into it. What is the structure of the tree? Draw the nodes and parent-child structure. 
+1. Suppose you have a priority queue implemented with a min-heap. Suppose 9 items were successfully inserted into it. What is the structure of the tree? Draw the nodes and parent-child structure. 
 
-> ##### HINT
-> How does a heap maintain balance? What property does the tree underlying the heap always have?
-{: .block-tip}
+    > ##### HINT
+    > How does a heap maintain balance? What property does the tree underlying the heap always have?
+    {: .block-tip}
 
-Recall that a min-heap has an ordering property such that if node $a$ is a child of node $b$, then $a > b$. **Show (formally) that this means that a path from root to leaf $c_1, c_2, \dots, c_h$ is sorted.** For clarity, since $c_1, \dots c_h$ is a path from root to leaf, this means that for each $1 < i \leq h$, $c_i$ is the child of $c_{i-1}$.   
+2. Recall that a min-heap has an ordering property such that if node $a$ is a child of node $b$, then $a > b$. **Show (formally) that this means that a path from root to leaf $c_1, c_2, \dots, c_h$ is sorted.** For clarity, since $c_1, \dots c_h$ is a path from root to leaf, this means that for each $1 < i \leq h$, $c_i$ is the child of $c_{i-1}$.   
 
 **Bonus**: When we insert or remove an element from the heap, our algorithm from data structures was to insert it to an incorrect position (i.e., one that violates our ordering property), and then swap it with elements above until it was greater than it's parent. This is, essentially, a single pass of BubbleSort on the path from the root to the new leaf. Show that this always works! Make sure to use the proper assumptions: What do you know about the structure of the heap before the insert? Write out the pseudocode for the insert and see if you can prove it's correctness (i.e., that the element is added and that the heap ordering and balance properties are preserved.
 
@@ -71,15 +71,15 @@ Recall that a min-heap has an ordering property such that if node $a$ is a child
 
 2. (Skiena 3-15) Suppose you want to convert an un-balanced binary search tree to a balanced one. Write an $O(n)$ algorithm that will convert a binary search tree with $n$ nodes to one that is perfectly balanced. Here, take balanced to mean that the depth of any two ~~leaves~~ *null pointers* (i.e., a missing child) differs by at most 1. 
 
-> ##### HINT
-> Look back at the answer to the hint question in the PQueue/Heap section. Could you borrow a balancing idea from there?
-{: .block-tip}
+    > ##### HINT
+    > Look back at the answer to the hint question in the PQueue/Heap section. Could you borrow a balancing idea from there?
+    {: .block-tip}
 
 **BONUS**: (Skiena 3-21) Given two BSTs $A$ and $B$ such that $\forall a \in A, b \in B$, $a < b$, write pseudocode to construct a new BST $C$ that contains all of the elements in $A$ and $B$ (that is, $\forall a \in A$, $a \in C$ and $\forall b \in B$, $b \in C$). Do this in $O(h)$ (worst-case) time, where $h$ is the maximum height between $A$ and $B$.
 
-> ###### HINT
-> Focus on ensuring that $C$ satisfies the ordering property for BSTs. Both trees are given to you as ordered BSTs, so try to change the structure of $A$ and $B$ as little as possible when merging them.
-{: .block-tip}
+    > ###### HINT
+    > Focus on ensuring that $C$ satisfies the ordering property for BSTs. Both trees are given to you as ordered BSTs, so try to change the structure of $A$ and $B$ as little as possible when merging them.
+    {: .block-tip}
 
 #### Graphs
 1. Construct a graph which will take up less memory as an adjacency list vs. as an adjacency matrix.
@@ -90,6 +90,6 @@ Recall that a min-heap has an ordering property such that if node $a$ is a child
 
 **BONUS**: We can think of trees as a special case of graphs. Two equivalent definitions are (1) an undirected graph that is *connected* and *acyclic* or (2) a graph where any two vertices are connected by exactly 1 path. Convince yourself (and attempt to show, formally) that (1) these definitions match the way we talk about trees and (2) that these two definitions are equivalent. 
 
-### For Credit
+#### Submission
 
 Upload to Moodle your work on at least one problem per data structure. Convince yourself that you could solve all the problems here independently (with the exception of the bonus problems) to make sure that you're sufficiently caught up with data structures! 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 5: Brute Force Algorithms"
+title:  "Activity 05: Brute Force Algorithms"
 categories: Activity Design
 ---
 
@@ -27,12 +27,13 @@ For each of the problem specifications below, try and design a brute-force solut
 
 3. **Tic-Tac-Toe**: Tic-tac-toe is a two player game where players take turns placing markers (x's or o's, depending on the player) on a 3x3 grid. A player wins when their marker appears in all squares in a row, column, or diagonal (i.e., 3-in-a-row on a 3x3 grid). If the board is filled and neither player accomplishes this, the game is a draw. Generalize the game to boards of size $k$x$k$, where a player wins when their marker appears $k$ times in a row, column, or diagonal. A tic-tac-toe solver is an algorithm that, given a current board state represented by a $k$x$k$ two-dimensional array and which player moves next, returns 1 if player 1 has a sequence of moves that is guaranteed to win, 2 if player two has such a sequence of moves, or 0 if neither player has such a sequence of moves (i.e., if both players play optimally, the game will end in a draw).
 
-> ##### *HINT 1* 
-> This may be a problem where you want to take greater advantage of the flexibility of pseudocode, as there are... well... uninteresting parts of this problem that require a substantial bit of clunky code to write out. Pseudocode will help you avoid this (but thinking about time-complexities won't let you avoid the complicated bits). For example, don't worry about how an x, o, or empty square is represented: Just assume you can ask whether a particular square is filled and, if so, which marker it's filled with!
-{: .block-tip}
+    > ##### *HINT 1* 
+    > This may be a problem where you want to take greater advantage of the flexibility of pseudocode, as there are... well... uninteresting parts of this problem that require a substantial bit of clunky code to write out. Pseudocode will help you avoid this (but thinking about time-complexities won't let you avoid the complicated bits). For example, don't worry about how an x, o, or empty square is represented: Just assume you can ask whether a particular square is filled and, if so, which marker it's filled with!
+    {: .block-tip}
 
-> ##### *HINT 2* 
-> Make sure you consider all of the various branching paths that result from the opposing player's moves. Can you frame this problem in terms of simpler subproblems of the same type? Maybe your solution should be recursive!
-{: .block-tip}
+    > ##### *HINT 2* 
+    > Make sure you consider all of the various branching paths that result from the opposing player's moves. Can you frame this problem in terms of simpler subproblems of the same type? Maybe your solution should be recursive!
+    {: .block-tip}
 
-4. **For Credit**: Submit pseudocode for your solution to at least 1 or 2, as well as a big-Oh time complexity (you should do at least one runtime analysis + sketch out the proof of correctness, but that won't be necessary by Wednesday). 
+#### Submission
+Submit pseudocode for your solution to at least 1 or 2, as well as a big-Oh time complexity (you should do at least one runtime analysis + sketch out the proof of correctness, but that won't be necessary by Wednesday). 

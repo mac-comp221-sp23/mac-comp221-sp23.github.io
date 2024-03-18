@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 3: Sorting 3"
+title:  "Activity 03: Sorting 3"
 categories: Activity Sorting
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Activity 4: Linear Data Structures Review"
+title:  "Activity 04: Linear Data Structures Review"
 categories: Activity Sorting
 ---
 
