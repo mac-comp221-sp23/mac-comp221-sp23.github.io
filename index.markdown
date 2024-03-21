@@ -46,7 +46,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 2/28 | Graph Traversal Problems |  | [Activity 13](pages/Activity13)  |
 | - | FRI 3/01 | **Class Cancelled**: Capstone Day! | |  |
 | 7 | MON 3/04 | Greedy Algorithms (Prim's/Kruskal's) | Skiena 8.1 | [Activity 14](pages/Activity14) |
-| - | WED 3/06 | Union-Find + Kruskal's 2.0 |  | [Activity 14](pages/Activity14)  |
+| - | WED 3/06 | Union-Find + Kruskal's 2.0 |  | [Activity 14](pages/Activity14) [MST Notes]({{ site.url }}/notes/MST.pdf) |
 | - | FRI 3/08 | Shortest-Path (Dijkstra's) | Skiena 8.3  | [Activity 15](pages/Activity15) |
 | 8 | 3/11 -- 3/15 | **Spring Break** |  |  |
 | 9 | MON 3/18 | Max-Flow/Min-Cut (Ford-Fulkerson, Edmonds-Karp) | Skiena 8.5  | [Activity 16](pages/Activity16)  |
