@@ -51,8 +51,8 @@ The schedule below will be updated to keep track of all released course material
 | 8 | 3/11 -- 3/15 | **Spring Break** |  |  |
 | 9 | MON 3/18 | Max-Flow/Min-Cut (Ford-Fulkerson, Edmonds-Karp) | Skiena 8.5  | [Activity 16](pages/Activity16)  |
 | - | WED 3/20 | Max-Flow Applications/Bipartite Matching |  | [Activity 16](pages/Activity16)  |
-| - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  |  |
-| 10 | MON 3/25 | **Exam 2**  |  | [Exam 1 LGs](https://docs.google.com/document/d/1vmRf7zIShmZq30AMCj-T2db6x19VSpL7rqiyzWZkAVI/edit?usp=sharing) |
+| - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  | [Activity 17](pages/Activity17) |
+| 10 | MON 3/25 | **Exam 2**  |  | [Exam 2 LGs](https://docs.google.com/document/d/1vmRf7zIShmZq30AMCj-T2db6x19VSpL7rqiyzWZkAVI/edit?usp=sharing) |
 
 </div> 
 
