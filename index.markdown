@@ -40,7 +40,7 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 | [Activity 9](pages/Activity9), [QuickSort Notes]({{ site.url }}/notes/QuickSort.pdf) |
 | - | FRI 2/16 | **Exam 1** |  | [Exam 1 LGs](https://docs.google.com/document/d/1VPGXnrsCvWL3PJLWo2WqsZSgxRDYw6lbzurS5phtKhM/edit), [Exam 1 Revision Policy](https://docs.google.com/document/d/1Gzm94mUpq-XRqZm460AsI2qo7M6ttpGVwZLLlrtWJFY/edit?usp=sharing) |
 | 5 | MON 2/19 | Binary Search Variants  | Skiena 5.1--5.3  | [Activity 10](pages/Activity10)  |
-| - | WED 2/21 | Reccurence Relations and the Master Theorem | Skiena 5.4 | [Activity 11](pages/Activity11), [Master Theorem Notes]({{ site.url }}/notes/MasterThm.pdf)  |
+| - | WED 2/21 | Recurrence Relations and the Master Theorem | Skiena 5.4 | [Activity 11](pages/Activity11), [Master Theorem Notes]({{ site.url }}/notes/MasterThm.pdf)  |
 | - | FRI 2/23 | Divide & Conquer (Largest Subrange/Closest Pair) | Skiena 5.5--5.6 | [Activity 12](pages/Activity12)  |
 | 6 | MON 2/26 | Graphs, BFS/DFS | Skiena 7.5--7.10  | [BFS Notes]({{ site.url }}/notes/BFS.pdf)  |
 | - | WED 2/28 | Graph Traversal Problems |  | [Activity 13](pages/Activity13)  |
