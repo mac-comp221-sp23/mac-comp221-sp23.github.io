@@ -53,6 +53,15 @@ The schedule below will be updated to keep track of all released course material
 | - | WED 3/20 | Max-Flow Applications/Bipartite Matching |  | [Activity 16](pages/Activity16)  |
 | - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  | [Activity 17](pages/Activity17) |
 | 10 | MON 3/25 | **Exam 2**  |  | [Exam 2 LGs](https://docs.google.com/document/d/1vmRf7zIShmZq30AMCj-T2db6x19VSpL7rqiyzWZkAVI/edit?usp=sharing) |
+| -  | WED 3/27 | **Class Cancelled** |  |  | 
+| -  | FRI 3/29 | Intro to Dynamic Programming | Skiena 10.1 |  |
+| 11 | MON 4/1 | Approximate String Matching | Skiena 10.2 |  |
+| -  | WED 4/3 | CKY Parsing | Skiena 10.8  |  |
+| -  | FRI 4/5 | TBD (Brute Force 2 OR Backprop) | TBD |  |
+| 12 | MON 4/8 | Intro to Complexity Theory | Skiena 11.1 |  |
+| -  | WED 4/10 | Reductions and SAT  | 11.2--11.6  |  |
+| -  | FRI 4/12 | P vs. NP/Approximation | 11.9, 12.1--12.2 |  |
+| 13 | MON 4/15 | **Exam 3** |  |  |
 
 </div> 
 
