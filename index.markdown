@@ -101,3 +101,5 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 
 </div> 
 
+**Errata:**:
+- The small puzzle was added 3/29 (previously the assignment only totalled 99 points!).  
