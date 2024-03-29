@@ -54,7 +54,7 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  | [Activity 17](pages/Activity17) |
 | 10 | MON 3/25 | **Exam 2**  |  | [Exam 2 LGs](https://docs.google.com/document/d/1vmRf7zIShmZq30AMCj-T2db6x19VSpL7rqiyzWZkAVI/edit?usp=sharing) |
 | -  | WED 3/27 | **Class Cancelled** |  |  | 
-| -  | FRI 3/29 | Intro to Dynamic Programming | Skiena 10.1 |  |
+| -  | FRI 3/29 | Intro to Dynamic Programming | Skiena 10.1 | [Activity 18](pages/Activity18)  |
 | 11 | MON 4/1 | Approximate String Matching | Skiena 10.2 |  |
 | -  | WED 4/3 | CKY Parsing | Skiena 10.8  |  |
 | -  | FRI 4/5 | TBD (Brute Force 2 OR Backprop) | TBD |  |
@@ -91,4 +91,13 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 
 - Problem 4b: a valid orderings -> a valid ordering. Please provide an algorithm that finds any valid ordering of letters given the data. 
 - Problem 3e: When I say faster here, it's a rare case of me referring to speed in a non-asymptotic way! Think in terms of number of vertices visited/edges traversed, etc.
+
+#### Homework 3
+**DUE: 4/8/2024**
+
+<div class="table-wrapper" markdown="block">
+
+[Instructions]({{ site.url }}/hws/COMP221_HW3.pdf) | [LaTeX Source]({{ site.url }}/hws/COMP221_HW3.tex)
+
+</div> 
 
