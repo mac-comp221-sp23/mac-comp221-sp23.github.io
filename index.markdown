@@ -47,10 +47,10 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 3/01 | **Class Cancelled**: Capstone Day! | |  |
 | 7 | MON 3/04 | Greedy Algorithms (Prim's/Kruskal's) | Skiena 8.1 | [Activity 14](pages/Activity14) |
 | - | WED 3/06 | Union-Find + Kruskal's 2.0 |  | [Activity 14](pages/Activity14), [MST Notes]({{ site.url }}/notes/MST.pdf) |
-| - | FRI 3/08 | Shortest-Path (Dijkstra's) | Skiena 8.3  | [Activity 15](pages/Activity15) |
+| - | FRI 3/08 | Shortest-Path (Dijkstra's) | Skiena 8.3  | [Activity 15](pages/Activity15), [Dijkstra Notes]({{ site.url }}/notes/Dijkstra.pdf) |
 | 8 | 3/11 -- 3/15 | **Spring Break** |  |  |
 | 9 | MON 3/18 | Max-Flow/Min-Cut (Ford-Fulkerson, Edmonds-Karp) | Skiena 8.5  | [Activity 16](pages/Activity16)  |
-| - | WED 3/20 | Max-Flow Applications/Bipartite Matching |  | [Activity 16](pages/Activity16)  |
+| - | WED 3/20 | Max-Flow Applications/Bipartite Matching |  | [Activity 16](pages/Activity16), [Network-Flow Notes]({{ site.url }}/notes/NetworkFlow.pdf) |
 | - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  | [Activity 17](pages/Activity17) |
 | 10 | MON 3/25 | **Exam 2**  |  | [Exam 2 LGs](https://docs.google.com/document/d/1vmRf7zIShmZq30AMCj-T2db6x19VSpL7rqiyzWZkAVI/edit?usp=sharing) |
 | -  | WED 3/27 | **Class Cancelled** |  |  | 
