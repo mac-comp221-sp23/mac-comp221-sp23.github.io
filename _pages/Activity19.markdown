@@ -17,7 +17,7 @@ For each of the following questions, design a recurrence relation, and then prov
 
 2. (Skiena 10-6) Modify the edit distance algorithm we've discussed to allow for *transposition errors*, where at the cost of one operation, you can swap two adjacent characters. Convince yourself that your recurrence works, and run your pseudocode on the "steve"/"setve" pair Skiena gives you. 
 
-3. (Skiena 10-7) Suppose you have 3 strings, $x, y, z$, where $\lvert z \rvert = \lvert x \rvert + \lvert y \lrvert$. $z$ is a shuffle of $x$ and $y$ if it interleaves characters from $x$ and $y$ preserving their order. That is, you take $x$ and insert all characters of $y$ into the string such that the order of characters in $y$ are preserved. See Skiena 10-7a for examples --- confirm that they make sense! Then write a dynamic programming algorithm (based on the structure of edit distance!) that determines whether $z$ is a shuffle of $x$ and $y$. 
+3. (Skiena 10-7) Suppose you have 3 strings, $x, y, z$, where $\lvert z \rvert = \lvert x \rvert + \lvert y \rvert$. $z$ is a shuffle of $x$ and $y$ if it interleaves characters from $x$ and $y$ preserving their order. That is, you take $x$ and insert all characters of $y$ into the string such that the order of characters in $y$ are preserved. See Skiena 10-7a for examples --- confirm that they make sense! Then write a dynamic programming algorithm (based on the structure of edit distance!) that determines whether $z$ is a shuffle of $x$ and $y$. 
 
 #### Submission
 Submit an artifact of your work on Moodle. 
