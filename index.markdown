@@ -55,7 +55,7 @@ The schedule below will be updated to keep track of all released course material
 | 10 | MON 3/25 | **Exam 2**  |  | [Exam 2 LGs](https://docs.google.com/document/d/1vmRf7zIShmZq30AMCj-T2db6x19VSpL7rqiyzWZkAVI/edit?usp=sharing) |
 | -  | WED 3/27 | **Class Cancelled** |  |  | 
 | -  | FRI 3/29 | Intro to Dynamic Programming | Skiena 10.1 | [Activity 18](pages/Activity18)  |
-| 11 | MON 4/1 | Approximate String Matching | Skiena 10.2 |  |
+| 11 | MON 4/1 | Approximate String Matching | Skiena 10.2 | [Activity 19](pages/Activity19)  |
 | -  | WED 4/3 | CKY Parsing | Skiena 10.8  |  |
 | -  | FRI 4/5 | TBD (Brute Force 2 OR Backprop) | TBD |  |
 | 12 | MON 4/8 | Intro to Complexity Theory | Skiena 11.1 |  |
