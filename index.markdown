@@ -97,10 +97,11 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 
 <div class="table-wrapper" markdown="block">
 
-[Instructions]({{ site.url }}/hws/COMP221_HW3.pdf) | [LaTeX Source]({{ site.url }}/hws/COMP221_HW3.tex)
+[Instructions]({{ site.url }}/hws/COMP221_HW3.pdf) | [LaTeX Source]({{ site.url }}/hws/COMP221_HW3.tex) | [Sample Code](https://github.com/mac-comp221-sp24/hw3-template)
 
 </div> 
 
 **Errata:**:
 - For implementation questions, return "inf" as the cost if the requested structure (SP/MST) doesn't exist.
-- The small puzzle was added 3/29 (previously the assignment only totalled 99 points!).  
+- The small puzzle was added 3/29 (previously the assignment only totalled 99 points!). 
+- Note that github classroom decided not to use the template as starter code, so i've linked the sample file-processing and input-handling code above. Regardless, as long as you implement the correct command-line behavior, you should be fine!
