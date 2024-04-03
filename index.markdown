@@ -105,4 +105,5 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 - For implementation questions, return "inf" as the cost if the requested structure (SP/MST) doesn't exist.
 - The small puzzle was added 3/29 (previously the assignment only totalled 99 points!). 
 - Note that github classroom decided not to use the template as starter code, so i've linked the sample file-processing and input-handling code above. Regardless, as long as you implement the correct command-line behavior, you should be fine!
-- 1a originally said that if a shortest path exists, *that* path is simple. This neglects to cover cases where multiple shortest paths exist! This should be: if a shortest path exists, there exists a simple shortest path.  
+- Problem 1a: The problem says that if a shortest path exists, *that* path is simple. This neglects to cover cases where multiple shortest paths exist! This should be: if a shortest path exists, there exists a simple shortest path.  
+- Problem 2c: You only need to describe the modification you would make --- No need to write pseudocode! Just convey the idea of the modification.
