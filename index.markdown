@@ -56,8 +56,8 @@ The schedule below will be updated to keep track of all released course material
 | -  | WED 3/27 | **Class Cancelled** |  |  | 
 | -  | FRI 3/29 | Intro to Dynamic Programming | Skiena 10.1 | [Activity 18](pages/Activity18)  |
 | 11 | MON 4/1 | Approximate String Matching | Skiena 10.2 | [Activity 19](pages/Activity19)  |
-| -  | WED 4/3 | CKY Parsing | Skiena 10.8  |  |
-| -  | FRI 4/5 | TBD (Brute Force 2 OR Backprop) | TBD |  |
+| -  | WED 4/3 | CKY Parsing | Skiena 10.8  | [Activity 19](pages/Activity19) |
+| -  | FRI 4/5 | Brute Force 2 | Skiena 9.1--9.3, 9.6--9.7  |  |
 | 12 | MON 4/8 | Intro to Complexity Theory | Skiena 11.1 |  |
 | -  | WED 4/10 | Reductions and SAT  | 11.2--11.6  |  |
 | -  | FRI 4/12 | P vs. NP/Approximation | 11.9, 12.1--12.2 |  |
