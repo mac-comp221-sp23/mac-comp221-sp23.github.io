@@ -13,7 +13,15 @@ You will work towards being able to...
 ## Activity
 For each of the following questions, design a recurrence relation, and then provide pseudocode for a dynamic programming algorithm to solve it. Consider the time and space complexity of your solutions. **It may be helpful to play around with the problem specification to build intution (i.e., work through an example!) before jumping to designing an algorithm**.
 
+### Day 1
+
 1. Write out pseudocode for the edit distance algorithm we discussed in lecture.  
+
+### Day 2
+
+1. Write out pseudocode for the CKY Parsing distance algorithm we discussed in lecture.  
+
+### Both Days
 
 2. (Skiena 10-6) Modify the edit distance algorithm we've discussed to allow for *transposition errors*, where at the cost of one operation, you can swap two adjacent characters. Convince yourself that your recurrence works, and run your pseudocode on the "steve"/"setve" pair Skiena gives you. 
 
