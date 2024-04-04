@@ -106,4 +106,6 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 - The small puzzle was added 3/29 (previously the assignment only totalled 99 points!). 
 - Note that github classroom decided not to use the template as starter code, so i've linked the sample file-processing and input-handling code above. Regardless, as long as you implement the correct command-line behavior, you should be fine!
 - Problem 1a: The problem says that if a shortest path exists, *that* path is simple. This neglects to cover cases where multiple shortest paths exist! This should be: if a shortest path exists, there exists a simple shortest path.  
+- Problem 1d/e: Assume the $t$ iterated over in the first for loop is different than the $t$ that is the target vertex (mentally replace it with a $t'$!)
 - Problem 2c: You only need to describe the modification you would make --- No need to write pseudocode! Just convey the idea of the modification.
+- Problem 2: It should be that in the example we start with $1c_1$ and end with $1.05c_1$. The problem mistakenly labels the result as $1.05c_2$. Apologies for the typo! 
