@@ -34,7 +34,7 @@ For example, if $P = [3, 8, 10]$ and $n=20$, Splitting first at 3 takes 20 time 
 > #### Hint
 > Think back to CKY Parsing!
 >
-{. :block-tip} 
+{: .block-tip} 
 
 #### Submission
 Submit an artifact of your work on Moodle. 
