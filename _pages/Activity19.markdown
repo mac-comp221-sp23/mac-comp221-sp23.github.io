@@ -29,12 +29,12 @@ For each of the following questions, design a recurrence relation, and then prov
 
 3. (Skiena 10-23) In some programming languages, the cost of spliting a string of length $n$ into two pieces is $\Theta(n)$. This happens in languages where strings are *immutable*, and thus must be copied for string operations like this! For simplicity, let's assume it actually takes exactly $n$ time steps. Suppose you want to make a sequence of splits such that the original string $s$ ends up split at positions $P = \{p_1, p_2, \dots, p_k\}$. That is, we want to conduct a series of splits such that we end up with $s[0\dots p_1], s[p_1+1, \dots p_2], \dots, s[p_k+1\dots n]$. What order of splits will get you those splits the fastest? Design an $\Theta(n^3)$ algorithm to find the minimum cost of splitting the strings in this way.
 
-For example, if $P = [3, 8, 10]$ and $n=20$, Splitting first at 3 takes 20 time steps, then at 8 takes 17, and finally at 10 takes 12, resulting in 49 time steps! Going in the reverse order, splitting at 10 takes 20, then at 8 takes 10, and finally at 3 takes 8, totalling 38.
+    For example, if $P = [3, 8, 10]$ and $n=20$, Splitting first at 3 takes 20 time steps, then at 8 takes 17, and finally at 10 takes 12, resulting in 49 time steps! Going in the reverse order, splitting at 10 takes 20, then at 8 takes 10, and finally at 3 takes 8, totalling 38.
 
-> #### Hint
-> Think back to CKY Parsing!
->
-{: .block-tip} 
+    > #### Hint
+    > Think back to CKY Parsing!
+    >
+    {: .block-tip} 
 
 #### Submission
 Submit an artifact of your work on Moodle. 
