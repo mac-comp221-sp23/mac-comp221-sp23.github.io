@@ -31,10 +31,9 @@ Work with your groups to work through the following problems. For these in parti
 
 2. Provide a *verification* algorithm for Set Cover. That is, given a potential solution to the set cover problem, provide an algorithm to verify it. Show that this verification can be done in polynomial time (i.e., Set Cover is NP-Complete). 
 
-3. (Skiena 11-12a) The *Low-Degree Spanning Tree* Problem is a decision problem where, given a graph $G = (V, E)$ and $k \in \mathbb{Z}_{\geq 0}$, you decide whether there exists a spanning tree such that the degree of each vertex in the spanning tree has degree $\leq k$. Look to the problem in Skiena for an example where the answer is false! Prove that this problem is NP-Hard via a reduction from the Hamiltonian Path decision problem (i.e., does there exist a simple cycle that visits every vertex in an unweighted graph $G=(V,E)$?). 
 ### Day 3
 
-3. Recall that a *clique* in a graph $G=(V, E)$ is a set of vertices $C \subseteq V$ such that every $v, w \in C$ are connected (i.e., $(v,w) \in E$). The clique decision problem asks, given a graph $G = (V, E)$ and $k \in \mathbb{Z}_{\geq 0}$, if a clique of size $\geq k$ exists in $G$. Suppose you consider a simplified version of the problem where you're guaranteed that $G$ only contains vertices with degree $\leq k$.  
+3. Recall that a *clique* in a graph $G=(V, E)$ is a set of vertices $C \subseteq V$ such that every $v, w \in C$ are connected (i.e., $(v,w) \in E$). The clique decision problem asks, given a graph $G = (V, E)$ and $k \in \mathbb{Z}_{\geq 0}$, if a clique of size $\geq k$ exists in $G$. Suppose you consider a simplified version of the problem where you're guaranteed that $G$ only contains vertices with degree $\leq k$. Prove that this problem is tractable (i.e., find a polynomial-time solution). 
 
 #### Submission
 Submit an artifact of your work on Moodle. 
