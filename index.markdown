@@ -58,9 +58,9 @@ The schedule below will be updated to keep track of all released course material
 | 11 | MON 4/1 | Approximate String Matching | Skiena 10.2 | [Activity 19](pages/Activity19)  |
 | -  | WED 4/3 | CKY Parsing | Skiena 10.8  | [Activity 19](pages/Activity19) |
 | -  | FRI 4/5 | Brute Force 2 | Skiena 9.1--9.3, 9.6--9.7  | [Activity 19](pages/Activity19)  |
-| 12 | MON 4/8 | Intro to Complexity Theory | Skiena 11.1 |  |
-| -  | WED 4/10 | Reductions and SAT  | 11.2--11.6  |  |
-| -  | FRI 4/12 | P vs. NP/Approximation | 11.9, 12.1--12.2 |  |
+| 12 | MON 4/8 | Intro to Complexity Theory | Skiena 11.1 | [Activity 20](pages/Activity20)  |
+| -  | WED 4/10 | Reductions and SAT  | 11.2--11.6  | [Activity 20](pages/Activity20) |
+| -  | FRI 4/12 | P vs. NP/Approximation | 11.9, 12.1--12.2 | [Activity 20](pages/Activity20) |
 | 13 | MON 4/15 | **Exam 3** |  |  |
 
 </div> 
