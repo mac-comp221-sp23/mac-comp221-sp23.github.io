@@ -31,7 +31,7 @@ For each of the following questions, design a recurrence relation, and then prov
 
     For example, if $P = [3, 8, 10]$ and $n=20$, Splitting first at 3 takes 20 time steps, then at 8 takes 17, and finally at 10 takes 12, resulting in 49 time steps! Going in the reverse order, splitting at 10 takes 20, then at 8 takes 10, and finally at 3 takes 8, totalling 38.
 
-    > #### Hint
+    > ###### Hint
     > Think back to CKY Parsing!
     >
     {: .block-tip} 

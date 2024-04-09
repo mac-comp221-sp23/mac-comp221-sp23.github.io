@@ -27,9 +27,15 @@ Work with your groups to work through the following problems. For these in parti
 
 ### Day 2
 
-1. (Skiena 11-10) The *(Minimum) Set Cover* problem provides you a set $X$, a set of subsets of $X$ called $F$, and asks you to find the smallest subset of $F' \subseteq F$ such that $X \subseteq \bigcup_{S \in F'} S$. That is, select the fewest number of subsets from $F$ such that the union of those subsets contains every element in $X$. A Set-Cover *decision* problem asks, for $F$, $X$, and $k \in \mathbb{Z}_{\geq 0}$ if there exists $F' \subseteq F$ that is a set cover w.r.t. $X$ and $\lvert F' \rvert \leq k$. Working with the decision problems, Assuming Vertex Cover is NP-Hard, prove Set Cover is NP-Hard via a reduction. 
+1. (Skiena 11-4) *Stingy SAT* is a problem that that asks, given a set of clauses (that is, disjunctions of literals) and $k \in \mathbb{Z}_{\geq 0}$, determine whether there is an assignment of boolean values to variables such that each clause evaluates to true *and* at most $k$ of the variables are assigned to true.
 
-2. Provide a *verification* algorithm for Set Cover. That is, given a potential solution to the set cover problem, provide an algorithm to verify it. Show that this verification can be done in polynomial time (i.e., Set Cover is NP-Complete). 
+    > ###### Hint
+    > Reduce this to an instance of the SAT problem with some additional clauses![^1]
+    {: .block-tip}
+
+2. (Skiena 11-10) The *(Minimum) Set Cover* problem provides you a set $X$, a set of subsets of $X$ called $F$, and asks you to find the smallest subset of $F' \subseteq F$ such that $X \subseteq \bigcup_{S \in F'} S$. That is, select the fewest number of subsets from $F$ such that the union of those subsets contains every element in $X$. A Set-Cover *decision* problem asks, for $F$, $X$, and $k \in \mathbb{Z}_{\geq 0}$ if there exists $F' \subseteq F$ that is a set cover w.r.t. $X$ and $\lvert F' \rvert \leq k$. Working with the decision problems, Assuming Vertex Cover is NP-Hard, prove Set Cover is NP-Hard via a reduction. 
+
+3. Provide a *verification* algorithm for Set Cover. That is, given a potential solution to the set cover problem, provide an algorithm to verify it. Show that this verification can be done in polynomial time (i.e., Set Cover is NP-Complete). 
 
 ### Day 3
 
@@ -39,3 +45,4 @@ Work with your groups to work through the following problems. For these in parti
 Submit an artifact of your work on Moodle. 
 
 ---
+[^1]: The reductions we've looked at thus far are called *Turing* (or sometimes *Cook*) reductions. A more restricted class or reductions that require that you can translate the *inputs* of Problem Y into inputs of Problem X such that the solution to that problem instance for problem X is also the solution to the original instance of Problem Y is called a *Karp* or *Many-One* reduction. That is, you can find a function that maps inputs for Problem Y into inputs for Problem X that have the same solution. Given how restricted Karp reductions are, they are more powerful than Turing reductions, and are the standard kind of reduction in complexity theory. 

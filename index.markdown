@@ -109,3 +109,12 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 - Problem 1d/e: Assume the $t$ iterated over in the first for loop is different than the $t$ that is the target vertex (mentally replace it with a $t'$!)
 - Problem 2c: You only need to describe the modification you would make --- No need to write pseudocode! Just convey the idea of the modification.
 - Problem 2: It should be that in the example we start with $1c_1$ and end with $1.05c_1$. The problem mistakenly labels the result as $1.05c_2$. Apologies for the typo! 
+
+#### Homework 4
+**Due: 4/17/2024**
+
+<div class="table-wrapper" markdown="block">
+
+[Instructions]({{ site.url }}/hws/COMP221_HW4.pdf) | [LaTeX Source]({{ site.url }}/hws/COMP221_HW4.tex) 
+
+</div> 
