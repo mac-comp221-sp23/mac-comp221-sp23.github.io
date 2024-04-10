@@ -30,7 +30,7 @@ Work with your groups to work through the following problems. For these in parti
 1. (Skiena 11-4) *Stingy SAT* is a problem that that asks, given a set of clauses (that is, disjunctions of literals) and $k \in \mathbb{Z}_{\geq 0}$, determine whether there is an assignment of boolean values to variables such that each clause evaluates to true *and* at most $k$ of the variables are assigned to true. Prove that this is NP-hard!
 
     > ###### Hint
-    > Reduce this from an instance of the SAT problem with some additional clauses![^1]
+    > Reduce this from an instance of the SAT problem![^1]
     {: .block-tip}
 
 2. (Skiena 11-10) The *(Minimum) Set Cover* problem provides you a set $X$, a set of subsets of $X$ called $F$, and asks you to find the smallest subset of $F' \subseteq F$ such that $X \subseteq \bigcup_{S \in F'} S$. That is, select the fewest number of subsets from $F$ such that the union of those subsets contains every element in $X$. A Set-Cover *decision* problem asks, for $F$, $X$, and $k \in \mathbb{Z}_{\geq 0}$ if there exists $F' \subseteq F$ that is a set cover w.r.t. $X$ and $\lvert F' \rvert \leq k$. Working with the decision problems, Assuming Vertex Cover is NP-Hard, prove Set Cover is NP-Hard via a reduction. 
