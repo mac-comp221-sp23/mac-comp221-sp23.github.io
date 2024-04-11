@@ -115,6 +115,9 @@ Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySol
 
 <div class="table-wrapper" markdown="block">
 
-[Instructions]({{ site.url }}/hws/COMP221_HW4.pdf) | [LaTeX Source]({{ site.url }}/hws/COMP221_HW4.tex) 
+[Instructions]({{ site.url }}/hws/COMP221_HW4_corrected.pdf) | [LaTeX Source]({{ site.url }}/hws/COMP221_HW4.tex) 
 
 </div> 
+
+**Errata**:
+- Additional Hints + a reduction in book-keeping for HW4 (on 4/11)! Please download the new, corrected version above!
