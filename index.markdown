@@ -38,7 +38,7 @@ The schedule below will be updated to keep track of all released course material
 | - | FRI 2/09 | Sorting: Tree/HeapSort | Skiena 4.1--4.3 | [Activity 7](pages/Activity7), [HeapSort Notes]({{ site.url }}/notes/HeapSort.pdf) |
 | 4 | MON 2/12 | Sorting: MergeSort | Skiena 4.5  | [Activity 8](pages/Activity8), [MergeSort Notes]({{ site.url }}/notes/MergeSort.pdf)  |
 | - | WED 2/14 | Sorting: QuickSort | Skiena 4.6 | [Activity 9](pages/Activity9), [QuickSort Notes]({{ site.url }}/notes/QuickSort.pdf) |
-| - | FRI 2/16 | **Exam 1** |  | [Exam 1 LGs](https://docs.google.com/document/d/1VPGXnrsCvWL3PJLWo2WqsZSgxRDYw6lbzurS5phtKhM/edit), [Exam 1 Revision Policy](https://docs.google.com/document/d/1Gzm94mUpq-XRqZm460AsI2qo7M6ttpGVwZLLlrtWJFY/edit?usp=sharing) |
+| - | FRI 2/16 | **Exam 1** |  | [Exam 1 LGs](https://docs.google.com/document/d/1VPGXnrsCvWL3PJLWo2WqsZSgxRDYw6lbzurS5phtKhM/edit), [Exam Revision Policy](https://docs.google.com/document/d/1Gzm94mUpq-XRqZm460AsI2qo7M6ttpGVwZLLlrtWJFY/edit?usp=sharing) |
 | 5 | MON 2/19 | Binary Search Variants  | Skiena 5.1--5.3  | [Activity 10](pages/Activity10)  |
 | - | WED 2/21 | Recurrence Relations and the Master Theorem | Skiena 5.4 | [Activity 11](pages/Activity11), [Master Theorem Notes]({{ site.url }}/notes/MasterThm.pdf)  |
 | - | FRI 2/23 | Divide & Conquer (Largest Subrange/Closest Pair) | Skiena 5.5--5.6 | [Activity 12](pages/Activity12)  |
@@ -52,7 +52,7 @@ The schedule below will be updated to keep track of all released course material
 | 9 | MON 3/18 | Max-Flow/Min-Cut (Ford-Fulkerson, Edmonds-Karp) | Skiena 8.5  | [Activity 16](pages/Activity16)  |
 | - | WED 3/20 | Max-Flow Applications/Bipartite Matching |  | [Activity 16](pages/Activity16), [Network-Flow Notes]({{ site.url }}/notes/NetworkFlow.pdf), [Quanta on Advances in Max-Flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/) |
 | - | FRI 3/22 | All-Pair Shortest-Path (Floyd-Warshall) |  | [Activity 17](pages/Activity17) |
-| 10 | MON 3/25 | **Exam 2**  |  | [Exam 2 LGs](https://docs.google.com/document/d/1vmRf7zIShmZq30AMCj-T2db6x19VSpL7rqiyzWZkAVI/edit?usp=sharing) |
+| 10 | MON 3/25 | **Exam 2**  |  | [Exam 2 LGs](https://docs.google.com/document/d/1vmRf7zIShmZq30AMCj-T2db6x19VSpL7rqiyzWZkAVI/edit?usp=sharing) [Exam Revision Policy](https://docs.google.com/document/d/1Gzm94mUpq-XRqZm460AsI2qo7M6ttpGVwZLLlrtWJFY/edit?usp=sharing) |
 | -  | WED 3/27 | **Class Cancelled** |  |  | 
 | -  | FRI 3/29 | Intro to Dynamic Programming | Skiena 10.1 | [Activity 18](pages/Activity18)  |
 | 11 | MON 4/1 | Approximate String Matching | Skiena 10.2 | [Activity 19](pages/Activity19)  |
@@ -61,7 +61,7 @@ The schedule below will be updated to keep track of all released course material
 | 12 | MON 4/8 | Intro to Complexity Theory | Skiena 11.1 | [Activity 20](pages/Activity20), [Complexity Theory Notes]({{ site.url }}/notes/Complexity.pdf) |
 | -  | WED 4/10 | Reductions and SAT  | 11.2--11.6  | [Activity 20](pages/Activity20) |
 | -  | FRI 4/12 | P vs. NP/Approximation | 11.9, 12.1--12.2 | [Activity 20](pages/Activity20) |
-| 13 | MON 4/15 | **Exam 3** |  |  |
+| 13 | MON 4/15 | **Exam 3** |  | [Exam 3 LGs](https://docs.google.com/document/d/17ENl5vGj3CDvw9HrW9E5CNOoROD_C0dKvNHQQbq6qew/edit?usp=sharing) |
 
 </div> 
 
