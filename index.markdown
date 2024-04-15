@@ -62,7 +62,8 @@ The schedule below will be updated to keep track of all released course material
 | -  | WED 4/10 | Reductions and SAT  | 11.2--11.6  | [Activity 20](pages/Activity20) |
 | -  | FRI 4/12 | P vs. NP/Approximation | 11.9, 12.1--12.2 | [Activity 20](pages/Activity20) |
 | 13 | MON 4/15 | **Exam 3** |  | [Exam 3 LGs](https://docs.google.com/document/d/17ENl5vGj3CDvw9HrW9E5CNOoROD_C0dKvNHQQbq6qew/edit?usp=sharing) |
-| 13 -- 14 | | **Project Workday** | | [Project Guidelines](https://docs.google.com/document/d/1gTcFpb5ST8ZLcLCTL3q17xFaN8Hxy34GH9YFeRjIVDk/edit?usp=sharingr) |
+| 13+ |  | **Project Workday** |  | [Project Guidelines](https://docs.google.com/document/d/1gTcFpb5ST8ZLcLCTL3q17xFaN8Hxy34GH9YFeRjIVDk/edit?usp=sharingr) |
+
 </div> 
 
 Selected activity solutions can be found [here]({{ site.url }}/notes/ActivitySolutions.pdf) (Updated for: Activities 8, 10--13).
