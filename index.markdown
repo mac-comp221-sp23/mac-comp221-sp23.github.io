@@ -61,7 +61,7 @@ The schedule below will be updated to keep track of all released course material
 | 12 | MON 4/8 | Intro to Complexity Theory | Skiena 11.1 | [Activity 20](pages/Activity20), [Complexity Theory Notes]({{ site.url }}/notes/Complexity.pdf) |
 | -  | WED 4/10 | Reductions and SAT  | 11.2--11.6  | [Activity 20](pages/Activity20) |
 | -  | FRI 4/12 | P vs. NP/Approximation | 11.9, 12.1--12.2 | [Activity 20](pages/Activity20) |
-| 13 | MON 4/15 | **Exam 3** |  | [Exam 3 LGs](https://docs.google.com/document/d/17ENl5vGj3CDvw9HrW9E5CNOoROD_C0dKvNHQQbq6qew/edit?usp=sharing) |
+| 13 | MON 4/15 | **Exam 3** |  | [Exam 3 LGs](https://docs.google.com/document/d/17ENl5vGj3CDvw9HrW9E5CNOoROD_C0dKvNHQQbq6qew/edit?usp=sharing), [Exam 3 Revisions](https://docs.google.com/document/d/1GYhMTvtP9qTPw4GE3qNfqMsrOUa1u7LuJc1BkgJKPd8/edit?usp=sharing) |
 | 13+ |  | **Project Workday** |  | [Project Guidelines](https://docs.google.com/document/d/1gTcFpb5ST8ZLcLCTL3q17xFaN8Hxy34GH9YFeRjIVDk/edit?usp=sharingr) [Register your group](https://forms.gle/Ba8i97M22jtYWXFt7) |
 
 </div> 
